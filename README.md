@@ -5,4 +5,7 @@ We are currently reviewing the code for release...
 
 Please come back later!
 
-<img width="435" height="396" alt="SODA_ENG" src="https://github.com/user-attachments/assets/71fee4c3-ec31-4460-8298-489b70cfbab5" />
+<a href="http://agilesoda.ai/" target="_blank" rel="noopener noreferrer">
+  <img width="435" height="396" alt="SODA_ENG" src="https://github.com/user-attachments/assets/71fee4c3-ec31-4460-8298-489b70cfbab5" />
+</a>
+
